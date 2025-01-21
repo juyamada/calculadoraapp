@@ -15,7 +15,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import java.net.MalformedURLException;
     
-    public class Calculos {
+    public class CalculadoraApp {
     
       private AndroidDriver driver;
 
